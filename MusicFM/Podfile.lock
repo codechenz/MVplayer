@@ -1,0 +1,44 @@
+PODS:
+  - AFNetworking (3.0.0-beta.3):
+    - AFNetworking/NSURLSession (= 3.0.0-beta.3)
+    - AFNetworking/Reachability (= 3.0.0-beta.3)
+    - AFNetworking/Security (= 3.0.0-beta.3)
+    - AFNetworking/Serialization (= 3.0.0-beta.3)
+    - AFNetworking/UIKit (= 3.0.0-beta.3)
+  - AFNetworking/NSURLSession (3.0.0-beta.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.0-beta.3)
+  - AFNetworking/Security (3.0.0-beta.3)
+  - AFNetworking/Serialization (3.0.0-beta.3)
+  - AFNetworking/UIKit (3.0.0-beta.3):
+    - AFNetworking/NSURLSession
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - Masonry (0.6.3)
+  - MJRefresh (3.0.7)
+  - YTKKeyValueStore (0.1.2):
+    - FMDB (~> 2.0)
+  - YYWebImage (0.9.11)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0.0-beta.3)
+  - FMDB (~> 2.5)
+  - Masonry (~> 0.6.3)
+  - MJRefresh (~> 3.0.7)
+  - YTKKeyValueStore (~> 0.1.2)
+  - YYWebImage (~> 0.9.11)
+
+SPEC CHECKSUMS:
+  AFNetworking: 4bbf9c2993fe416e02093128f3be1bfe20c6e847
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  MJRefresh: f3e1228ec3d38c7ba5208d58032631a52f39f495
+  YTKKeyValueStore: 4d002941540dd5108fa23009b71e0f2f937f7a0f
+  YYWebImage: a65b28461dc63d3b84de7c06ea0fbc4d46cdcd16
+
+COCOAPODS: 0.39.0
